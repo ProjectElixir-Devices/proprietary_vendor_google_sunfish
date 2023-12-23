@@ -802,6 +802,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sunfish/proprietary/vendor/lib64/camera/ghawb_para_lut.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/ghawb_para_lut.bin \
     vendor/google/sunfish/proprietary/vendor/lib64/camera/ghawb_para_lut_imx355.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/ghawb_para_lut_imx355.bin \
     vendor/google/sunfish/proprietary/vendor/lib64/camera/ghawb_para_lut_imx363.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/ghawb_para_lut_imx363.bin \
+    vendor/google/sunfish/proprietary/vendor/lib/soundfx/libspatialaudio.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libspatialaudio.so \
     vendor/google/sunfish/proprietary/vendor/media/ensemble_fd_model.emd:$(TARGET_COPY_OUT_VENDOR)/media/ensemble_fd_model.emd \
     vendor/google/sunfish/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
     vendor/google/sunfish/proprietary/vendor/radio/qcril_database/upgrade/0_initial.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/0_initial.sql \
